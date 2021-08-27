@@ -5,4 +5,5 @@
 
  Including: CSS Grid, Flexbox, Font Awsome Icons, Responsive  Media Queries
 
-
+Bugs:   Menu transition.
+        Image responsivness
